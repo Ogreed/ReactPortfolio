@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.1a2d8e29.css",
+    "main.js": "/ReactPortfolio/static/js/main.d1fecf8b.js",
+    "static/media/pleasureIslandWebsiteImg.jpg": "/ReactPortfolio/static/media/pleasureIslandWebsiteImg.54e4ca6c3a1aafd7d04b.jpg",
+    "static/media/recipeManager.png": "/ReactPortfolio/static/media/recipeManager.12f03b26b16f7fa1a5cd.png",
+    "static/media/tyrrellCountyWebsiteImg.jpg": "/ReactPortfolio/static/media/tyrrellCountyWebsiteImg.ba810c40e49edb9225c1.jpg",
+    "static/media/oliviaDigitalArtSketch.png": "/ReactPortfolio/static/media/oliviaDigitalArtSketch.6d0b888afe0a054f0fa6.png",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.1a2d8e29.css.map": "/ReactPortfolio/static/css/main.1a2d8e29.css.map",
+    "main.d1fecf8b.js.map": "/ReactPortfolio/static/js/main.d1fecf8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2d8e29.css",
+    "static/js/main.d1fecf8b.js"
+  ]
+}
