@@ -1,0 +1,55 @@
+body {
+    color: white;
+    background-color: rgb(14, 14, 14);
+    font-family: cursive;
+}
+
+header {
+    text-align: center;
+    font-size: larger;
+}
+
+header p {
+    padding: 0.5% 4%;
+}
+
+header img {
+    max-width: 100%;
+    width: 400px;
+}
+
+header p a, footer p a {
+    color: yellow;
+    font-family: fantasy;
+}
+
+header p a:hover, footer p a:hover {
+    color: rgb(255, 255, 177);
+    font-size: larger;
+}
+
+.projects img {
+    display: block;
+    max-width: 100%;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.projects, .experience {
+    margin: 1% 0;
+    padding: 3%;
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+.skills h3 {
+    text-align: center;
+}
+
+.skills ul {
+    display: table;
+    margin: 0 auto;
+}
